@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherTest</string>
+    <string name="enter_city">Enter City</string>
+    <string name="refresh">Refresh</string>
+</resources>
